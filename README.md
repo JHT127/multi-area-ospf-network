@@ -4,6 +4,8 @@
 
 ---
 
+**Partners** : Joud Thaher & Labiba Sharia
+
 ## What Was Built
 
 A simulated enterprise network spanning five areas interconnected through OSPF dynamic routing, with a complete service stack deployed in the datacenter area. The design covers IP planning, device configuration, protocol setup, wireless/cellular connectivity, and end-to-end verification across all segments.
