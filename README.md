@@ -1,4 +1,4 @@
-# multi-area-ospf-network
+# Multi Area Ospf Network
 
 > 5-area OSPF enterprise network designed from scratch in Cisco Packet Tracer — manual VLSM subnetting, dynamic routing, and a full datacenter service stack (DHCP, DNS, SMTP/POP3, HTTP/HTTPS).
 
